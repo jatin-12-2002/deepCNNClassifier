@@ -164,3 +164,9 @@ cython_debug/
 .vscode/
 *.jpg
 *.zip
+artifacts/prepare_base_model/base_model.h5
+artifacts/prepare_base_model/base_model_updated.h5
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-27-05-16-49
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-27-08-14-05
+artifacts/training/model.h5
