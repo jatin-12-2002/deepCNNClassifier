@@ -179,3 +179,4 @@ mlruns/*
 research/mlflow_dir/mlruns/*
 prediction_service/model.h5
 prediction_service/deepCNNClassifier.code-workspace
+workspaces.code-workspace
