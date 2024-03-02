@@ -178,3 +178,4 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-29-18-53-47/v
 mlruns/*
 research/mlflow_dir/mlruns/*
 prediction_service/model.h5
+prediction_service/deepCNNClassifier.code-workspace
