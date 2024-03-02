@@ -175,3 +175,4 @@ artifacts/training
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-29-20-50-07/train/events.out.tfevents.1709239809.codespaces-353630.3382.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-29-18-53-47/train/events.out.tfevents.1709232828.codespaces-353630.25625.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-29-18-53-47/validation/events.out.tfevents.1709236335.codespaces-353630.25625.1.v2
+mlruns/*
